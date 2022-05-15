@@ -27,9 +27,6 @@ margin_right = 800.0
 margin_bottom = 800.0
 texture = ExtResource( 3 )
 stretch_mode = 2
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="apple" type="Sprite" parent="."]
 texture = ExtResource( 4 )
